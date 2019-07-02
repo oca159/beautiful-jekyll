@@ -1,0 +1,45 @@
+# language Spanish
+posts: "Posts"
+subscribe: "subscribe"
+via_RSS: "via RSS"
+abbreviated_weekday:
+  - Dom
+  - Lun
+  - Mar
+  - Mié
+  - Jue
+  - Sáb
+full_weekday:
+  - Domingo
+  - Lunes
+  - Martes
+  - Miércoles
+  - Jueves
+  - Viernes
+  - Sábado
+abbreviated_month:
+  - Ene
+  - Feb
+  - Mar
+  - Abr
+  - May
+  - Jun
+  - Jul
+  - Ago
+  - Sep
+  - Oct
+  - Nov
+  - Dic
+full_month:
+  - Enero
+  - Febrero
+  - Marzo
+  - Abril
+  - Mayo
+  - Junio
+  - Julio
+  - Agosyo
+  - Septiembre
+  - Octubre
+  - Noviembre
+  - Diciembre

@@ -246,5 +246,10 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
+### Basic localization (l10n)
+# If you customize the lang parameter, the theme will try to use the strings in _data/locales/[lang].yml
+lang: es
+
+# Even the day and month names will be translated. You can customize your date by
+# uncommenting the following line and customizing the date format:
+date_format: "%B %-d, %Y"
