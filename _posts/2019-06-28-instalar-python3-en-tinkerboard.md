@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ¿Cómo instalar python3 en una tinkerboard?
+title: ¿Cómo instalar python3 en un tinkerboard?
 ---
 
 Por default Linaro incluye **python 2.7**, si queremos instalar **python3.6** debemos seguir los siguientes pasos.
